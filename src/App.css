@@ -1,9 +1,5 @@
-#root {
-  width: 100vw;
-  padding: 50px;
-}
-
 body {
+  padding: 50px;
   background: url('../public/Rectangle.png') no-repeat;
   background-attachment: fixed;
   background-position: center center;
